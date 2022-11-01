@@ -1,0 +1,5 @@
+Nomes        Idades
+João           12
+Juliana        1
+Guilherme      90 
+Patrícia       20
