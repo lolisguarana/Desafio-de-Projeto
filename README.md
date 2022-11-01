@@ -1,2 +1,2 @@
-# Desafio-de-Projeto
-Desafio de Projeto sobre Git e GitHub
+# Desafio do Projeto
+Desafio do Projeto sobre Git e GitHub
